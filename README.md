@@ -21,3 +21,9 @@ Robust input validation for error-free use
 
 Tags:
 python urban-data housing-analysis csv-processing cli-application acs-data
+
+License & Attribution
+Code: MIT License
+Data: American Community Survey (Public Domain)
+Pedagogy: Stanford Code in Place (CS106A)
+
