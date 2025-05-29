@@ -1,0 +1,14 @@
+Category,Subcategory,Occupied_Estimate,Occupied_Margin,Occupied_Percent_Estimate,Occupied_Percent_Margin,Owner_Estimate,Owner_Margin,Owner_Percent_Estimate,Owner_Percent_Margin,Renter_Estimate,Renter_Margin,Renter_Percent_Estimate,Renter_Percent_Margin
+Occupied housing units,Total,502324,4229,100.0,0.0,332076,5643,66.1,1.1,170248,6467,33.9,1.3
+Household size,1-person household,173860,6493,34.6,1.3,89850,4574,27.1,1.2,84010,5347,49.3,2.5
+Household size,2-person household,167976,7016,33.4,1.3,120340,4938,36.2,1.4,47636,4427,28.0,2.4
+Household size,3-person household,69214,5073,13.8,1.0,52877,3404,15.9,1.0,16337,2942,9.6,1.7
+Household size,4-or-more-person household,91274,5048,18.2,1.0,69009,4079,20.8,1.2,22265,2608,13.1,1.5
+Occupants per room,1.00 or less,495919,4321,98.7,0.3,329220,5573,99.1,0.3,166699,6350,97.9,0.6
+Occupants per room,1.01 to 1.50,3888,1156,0.8,0.2,1654,707,0.5,0.2,2234,919,1.3,0.5
+Occupants per room,1.51 or more,2517,1171,0.5,0.2,1202,666,0.4,0.2,1315,754,0.8,0.4
+Household type,Family households,290562,6673,57.8,1.3,224022,5115,67.5,1.3,66540,5350,39.1,2.7
+Household type,Married-couple family,204533,6345,40.7,1.2,178957,5271,53.9,1.4,25576,2852,15.0,1.6
+Household type,Householder 15-34 years,22027,2356,4.4,0.5,14760,1847,4.4,0.5,7267,1316,4.3,0.8
+Household type,Householder 35-64 years,124954,4315,24.9,0.9,111535,3942,33.6,1.1,13419,2116,7.9,1.2
+Household type,Householder 65+ years,57552,2800,11.5,0.6,52662,2555,15.9,0.8,4890,1062,2.9,0.6
