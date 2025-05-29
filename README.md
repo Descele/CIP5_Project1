@@ -14,7 +14,6 @@ Key Features:
 ✔ Modular design – Separates data loading, display logic, and user interaction
 
 Technical Highlights:
-
 Clean data ingestion with csv module and dictionary comprehensions
 Hierarchical category/subcategory exploration
 Robust input validation for error-free use
