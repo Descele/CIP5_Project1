@@ -20,6 +20,18 @@ Robust input validation for error-free use
 
 Tags:
 python urban-data housing-analysis csv-processing cli-application acs-data
+## Code in Place Certification  
+*Stanford CS106A Methodology | 2025*  
+
+| Week | Focus Area | Skills Badges |  
+|------|------------|---------------|  
+| 1 | **Karel Foundations** | [![Algorithms](https://img.shields.io/badge/-Algorithms-brightgreen)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) [![Loops](https://img.shields.io/badge/-For/While_Loops-blue)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter4.html) [![Conditionals](https://img.shields.io/badge/-If_Statements-orange)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter3.html) |  
+| 2 | **Stepwise Refinement** | [![Decomposition](https://img.shields.io/badge/-Problem_Decomposition-9cf)](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter7.html) [![Debugging](https://img.shields.io/badge/-Debugging-purple)](https://compedu.stanford.edu/codeinplace/faq#debugging) |  
+| 3 | **Python Essentials** | [![I/O](https://img.shields.io/badge/-Input/Output-yellow)](https://docs.python.org/3/tutorial/inputoutput.html) [![Math](https://img.shields.io/badge/-Arithmetic-blue)](https://docs.python.org/3/tutorial/introduction.html#numbers) [![Random](https://img.shields.io/badge/-Random_Lib-success)](https://docs.python.org/3/library/random.html) |  
+| 4 | **Creative Graphics** | [![GUI](https://img.shields.io/badge/-Canvas_Graphics-ff69b4)](https://cs.stanford.edu/people/nick/graphics-py/) [![Functions](https://img.shields.io/badge/-Modular_Code-important)](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) |   
+| 5 | **Data Structures** | [![Lists](https://img.shields.io/badge/-Lists-2d3e50)](https://docs.python.org/3/tutorial/datastructures.html) [![Dictionaries](https://img.shields.io/badge/-Dicts-8a2be2)](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [![Search](https://img.shields.io/badge/-Search_Algorithms-brightgreen)](https://compedu.stanford.edu/codeinplace/faq#searching) | 
+--- 
+
 
 License & Attribution
 Code: MIT License
