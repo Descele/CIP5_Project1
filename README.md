@@ -37,4 +37,5 @@ License & Attribution
 Code: MIT License
 Data: American Community Survey (Public Domain)
 Pedagogy: Stanford Code in Place (CS106A)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Descele) 
 
