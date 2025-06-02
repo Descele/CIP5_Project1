@@ -30,7 +30,7 @@ Here's a short explanation of each file in this project:
 
 - **README.md** [you are here!] : Project documentation   
 - **Housing_data.txt** : Raw data file related to housing metrics (e.g., occupancy rates, demographics)  
-- **main.py** : Main Python script for data processing or simulation (updated recently)  
+- **main.py** : Main Python script for data processing or simulation  
 - **requirements.txt** : Lists PyPi packages required to run the project  
 - **LICENSE** : Standard software license terms 
 - **gitignore.txt** : Specifies files/folders Git should ignore (e.g., temporary files, local configs)  
